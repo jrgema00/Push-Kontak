@@ -1,7 +1,7 @@
 const fs = require("fs");
 const chalk = require("chalk");
 
-global.owner = ["6285742632270"];
+global.owner = ["6285135216458"];
 global.author = "RezaDevv";
 global.packname = "Push-Kontak";
 global.sessionName = "Bot-Session";
